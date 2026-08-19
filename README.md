@@ -8,13 +8,18 @@
 
 ```text
 pets/
-└─ 作品名/
+└─ 分类或作品名/
    ├─ README.md
    └─ 角色名/
       ├─ pet.json
       ├─ spritesheet.webp
       └─ preview.png
 ```
+
+当前分类：
+
+- `jashin-chan-dropkick/`：动画同人角色
+- `brands/`：品牌或产品 mascot
 
 ## Codex 使用方法
 

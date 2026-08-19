@@ -1,0 +1,15 @@
+{
+  "id": "input-terminal",
+  "displayName": "input",
+  "description": "以 input AI 中转站 logo 为核心的像素风编码终端桌宠。",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp",
+  "atlas": {
+    "columns": 8,
+    "rows": 11,
+    "cellWidth": 192,
+    "cellHeight": 208,
+    "width": 1536,
+    "height": 2288
+  }
+}
