@@ -1,0 +1,15 @@
+{
+  "id": "minos-cowgirl",
+  "displayName": "牛牛·米诺斯",
+  "description": "基于用户提供的米诺斯形象制作的蓝发牛角少女动画宠物。",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp",
+  "atlas": {
+    "columns": 8,
+    "rows": 11,
+    "cellWidth": 192,
+    "cellHeight": 208,
+    "width": 1536,
+    "height": 2288
+  }
+}
