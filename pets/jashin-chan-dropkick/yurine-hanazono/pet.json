@@ -1,0 +1,15 @@
+{
+  "id": "yurine-hanazono",
+  "displayName": "花园百合铃",
+  "description": "《邪神与厨二病少女》的冷静腹黑哥特萝莉召唤者花园百合铃桌宠。",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp",
+  "atlas": {
+    "columns": 8,
+    "rows": 11,
+    "cellWidth": 192,
+    "cellHeight": 208,
+    "width": 1536,
+    "height": 2288
+  }
+}
