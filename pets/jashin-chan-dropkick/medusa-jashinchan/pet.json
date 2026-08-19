@@ -1,0 +1,15 @@
+{
+  "id": "medusa-jashinchan",
+  "displayName": "美杜莎",
+  "description": "基于用户提供的《邪神与厨二病少女》美杜莎形象制作的埃及风动画宠物。",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp",
+  "atlas": {
+    "columns": 8,
+    "rows": 11,
+    "cellWidth": 192,
+    "cellHeight": 208,
+    "width": 1536,
+    "height": 2288
+  }
+}

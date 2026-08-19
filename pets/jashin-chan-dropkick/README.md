@@ -7,6 +7,7 @@
 | 角色 | 目录 | 状态 |
 | --- | --- | --- |
 | 牛牛·米诺斯（ミノス） | [`minos-cowgirl`](./minos-cowgirl/) | 已完成 |
+| 美杜莎（メデューサ） | [`medusa-jashinchan`](./medusa-jashinchan/) | 已完成 |
 
 以后制作其他角色时，在本目录下新增角色文件夹，并补充上面的列表。
 
