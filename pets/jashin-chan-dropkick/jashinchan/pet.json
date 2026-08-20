@@ -1,0 +1,15 @@
+{
+  "id": "jashinchan",
+  "displayName": "小邪神",
+  "description": "基于《邪神与厨二病少女》小邪神形象制作的粉色连帽衫蛇身动画宠物。",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp",
+  "atlas": {
+    "columns": 8,
+    "rows": 11,
+    "cellWidth": 192,
+    "cellHeight": 208,
+    "width": 1536,
+    "height": 2288
+  }
+}
